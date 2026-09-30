@@ -1,0 +1,7 @@
+php artisan db:seed --class=LevelSeeder
+php artisan db:seed --class=FileLevelSeeder
+php artisan db:seed --class=SubLevelSeeder
+php artisan db:seed --class=ReqFileSeeder
+php artisan db:seed --class=ClasseSeeder
+
+php artisan db:seed
